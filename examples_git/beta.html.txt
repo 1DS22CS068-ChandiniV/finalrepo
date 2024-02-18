@@ -1,4 +1,1 @@
-hi 
-hello
-bye
-goodbye
+hi hello bye
